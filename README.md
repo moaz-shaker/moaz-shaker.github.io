@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](https://moaz-shaker.github.io/)
+Live Preview - [Click Here]([https://moaz-shaker.github.io/](https://moaz-shaker-github-io.vercel.app/))
 
 
 # 🛠 Installation and Setup Instructions
