@@ -1,40 +1,40 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/amazon.png",
+    title: "Amazon E-commerce Website",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["Angular", "Firebase"],
-    github_url: "https://github.com/moaz-shaker/",
-    demo_url: "",
+      "A application for Simulate Amazon Operation and CRUD.",
+    tech_stack: ["HTML","CSS", "Firebase","NodeJs","TypeScript","Angular","Angular Material","Bootstrap"],
+    github_url: "https://github.com/moaz-shaker/Amazon-E-Commerce-Website",
+    demo_url: "https://amazon-e-commerce-website.vercel.app/home",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "/freshcart.png",
+    title: "Fresh Cart",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/moaz-shaker/",
-    demo_url: "",
+      "A Website aims to deliver an engaging and seamless online shopping experience, modeled after industry giants like Amazon.",
+      tech_stack: ["HTML","CSS","NodeJs","TypeScript","Angular","Angular Material","Bootstrap"],
+      github_url: "https://github.com/moaz-shaker/E-commerce-website-Angular",
+    demo_url: "https://e-commerce-website-angular-three.vercel.app/login",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    img: "/clothesWeb.png",
+    title: "Clothes Website",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
+      "A Website that display Clothes and Cart to add item.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/moaz-shaker",
+    github_url: "https://github.com/moaz-shaker/Clothes-Shop",
     demo_url: "",
   },
   {
-    img: "/jobDetect.png",
-    title: "JobDetect",
+    img: "/resturant.png",
+    title: "Restaurant Website",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/moaz-shaker",
-    demo_url: "",
+      "A responsive website created for a fictional restaurant, offering visitors a user-friendly experience to explore the restaurant's menu, special offers, and book a table.",
+    tech_stack: ["HTML", "CSS", "JavaScript"],
+    github_url: "https://github.com/moaz-shaker/Resturant-Website",
+    demo_url: "https://resturant-website-blue.vercel.app/",
   },
 ];
 
