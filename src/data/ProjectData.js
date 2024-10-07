@@ -11,7 +11,7 @@ export const ProjectList = [
   },
   {
     img: "/freshCart.png",
-    title: "Fresh Cart",
+    title: "Fresh Cart Website",
     description:
       "A Website aims to deliver an engaging and seamless online shopping experience, modeled after industry giants like Amazon.",
       tech_stack: ["HTML","CSS","NodeJs","TypeScript","Angular","Angular Material","Bootstrap"],
