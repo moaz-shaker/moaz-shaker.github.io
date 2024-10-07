@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/amazon.png",
+    img: "/Amazon.png",
     title: "Amazon E-commerce Website",
     description:
       "A application for Simulate Amazon Operation and CRUD.",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "https://amazon-e-commerce-website.vercel.app/home",
   },
   {
-    img: "/freshcart.png",
+    img: "/freshCart.png",
     title: "Fresh Cart",
     description:
       "A Website aims to deliver an engaging and seamless online shopping experience, modeled after industry giants like Amazon.",
