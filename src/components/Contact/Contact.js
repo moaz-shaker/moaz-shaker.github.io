@@ -110,7 +110,7 @@ function Contact() {
                     </Tooltip>
                     <a
                       className="btn PrimaryBtn btn-shadow"
-                      href="tel:+01550704321"
+                      href="tel:+966502985534"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
