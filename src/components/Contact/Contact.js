@@ -87,7 +87,7 @@ function Contact() {
                       justifyContent: "center",
                     }}
                   >
-                    <span>+201550704321</span>
+                    <span>+966502985534</span>
                     <Tooltip
                       PopperProps={{
                         disablePortal: true,
